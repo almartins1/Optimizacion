@@ -1,3 +1,9 @@
 # Readme
 
-Para la tarea 2 se crearon 4 notebooks, el principal es [Taller3_optimizacion.ipynb](Introduccion_Tarea3.ipynb) y desde ahi se puede navegar entre los notebooks, el resto son algunas imagenes que utilicé para completar algunos ejercicios.
+##La tarea fue entregada en grupo de 3, integrantes:
+
+Alejandro Martin Salcedo <br>
+David Alexander Núñez Quintero <br>
+Paula Ximena Rodriguez Nempeque <br>
+
+Para la tarea e se crearon 2 notebooks, el principal es [Taller3_optimizacion.ipynb](Introduccion_Tarea3.ipynb) y desde ahi se puede navegar entre los notebooks, el resto son algunas imagenes que utilizamos para completar algunos ejercicios.
