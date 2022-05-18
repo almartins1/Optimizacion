@@ -1,6 +1,6 @@
 # Readme
 
-##La tarea fue entregada en grupo de 3, integrantes:
+## La tarea fue entregada en grupo de 3, integrantes:
 
 Alejandro Martin Salcedo <br>
 David Alexander Núñez Quintero <br>
